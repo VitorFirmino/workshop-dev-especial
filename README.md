@@ -29,3 +29,4 @@ $ npm install
 # Execute o projeto
 $ npm run dev
 ```
+![Preview](https://user-images.githubusercontent.com/69886760/109576714-168d9e00-7ad3-11eb-884b-b09bcc92eabb.gif)
